@@ -3,8 +3,7 @@ import { Head } from './head/head';
 
 export const routes: Routes = [
 
-
-{path: 'exercicio', component: Head},
-{path: '', redirectTo: 'exercicio', pathMatch:'full'}
+{path: 'home', component: Head},
+{path: '', redirectTo: 'home', pathMatch:  'full'}
 
 ];

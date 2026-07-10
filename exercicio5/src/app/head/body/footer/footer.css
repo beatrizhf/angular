@@ -1,0 +1,10 @@
+p{
+display: flex; 
+gap: 30px;
+justify-content: space-around;
+display: flex; 
+background-color: #276172;
+padding: 10px;
+color:aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+}
